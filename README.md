@@ -52,6 +52,10 @@ I’m focused on writing clean, optimized, and maintainable code — and always 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,git,github,vscode" alt="tools" />
 </p>
 
+### 🎨 Design Tools  
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop,illustrator" alt="design tools" />
+</p>
 ---
 
 ## 🌐 Connect With Me  
