@@ -1,4 +1,4 @@
-<h1 align="center">HELLO, I'm Md. Iftekher Ahmed</h1>
+<h1 align="center">Hi, I'm Md. Iftekher Ahmed</h1>
 <h3 align="center">💻 Junior MERN Stack Developer | Passionate about Web Development</h3>
 
 <!-- Banner Image -->
