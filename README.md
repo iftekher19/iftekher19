@@ -21,7 +21,7 @@ I’m focused on writing clean, optimized, and maintainable code — and always 
 - 💼 Building full-stack projects using **React**, **Node.js**, and **MongoDB**  
 - 👨‍💻 Practicing **REST API** development and backend logic  
 - 🎯 Learning **advanced UI/UX integration** with **Tailwind CSS**  
-- ☁️ Deploying apps on **Vercel** and **Netlify**
+- ☁️ Deploying apps on **Vercel** **Firebase** and **Netlify**
 
 ---
 
@@ -92,14 +92,5 @@ I’m focused on writing clean, optimized, and maintainable code — and always 
 </p>
 
 ---
-
-## 👁️ Profile Visits  
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=iftekher19&icon=0&color=0" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 <h4 align="center">💬 “Code, Learn, Create, and Share — one commit at a time.” 💚</h4>
